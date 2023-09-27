@@ -14,7 +14,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 **Zimo Ma** is a 22-year-old girl from Xi'an, China. She goes by **Zina** as her English name. Zina's birthday is Augest 19th, 2001. 
 
 ## Education Background
-Zina is a first year graduate student in MACSS in the University of Chicago. This year, she got her Bachelor Degree in DePauw University with double majors in Psychology and Mathematics. She had two research experience in _social psychology_ and _human rights_, respectively, using R, SPSS, and GIS. This is her on her Commencement: ![Commencement_PIC](../../Commencement_PIC.jpg)
+Zina is a first year graduate student in MACSS in the University of Chicago. This year, she got her Bachelor Degree in DePauw University with double majors in Psychology and Mathematics. She had two research experience in _social psychology_ and _human rights_, respectively, using R, SPSS, and GIS. This is her on her Commencement: ![Alt text](Commencement_PIC.jpg)
 The courses that she is taking in the first quater of MACSS program can be found below:
 - MACS 30111 _Principles of Computing 1: Computational Thinking for Social Scientists_
 * MACS 30000 _Perspectives on Computational Analysis_
