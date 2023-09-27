@@ -24,12 +24,15 @@ The courses that she is taking in the first quater of MACSS program can be found
 - MACS 30000 _Perspectives on Computational Analysis_
 - LING 30401 _Psycholinguistics: Language Processing_
 
+
+
+
 ## Personal Information
 Zina loves dancing, playing video games, listening to the music, and learning languages in her free time. She used to be in a dance team called X-Cell for four years. She became the Vice President, Parliamentarian, and Choreographer of the X-Cell in her senior year at Depauw, and she cooperated with members in X-Cell and other dance teams on campus to offer two great showcases, including more than 20 choreographys, lightings, and arrangements.
 
 The more information about Zina's background and skills can be found on [LinkedIn profile](https://www.linkedin.com/in/zimo-ma-95a62b220/)
 
-### Summary
+# Summary
 - It is a very interesting and effective way to practice adding and using these elements in my own bio in the Github. It is definitely a lot more work than just simply inserted some random things as I did not copy and pasted the bio that I had before. Instead, I really tried to make it pretty and attractive by actually thinking about what content I am going to put and how to coordinate the content with the assignment requirement. 
 - I am suprised by that we can actually insert images and even use emojis in the Github. I thought it was a boring software before, and these findings definitely motivate me more to learn. Thank you!
 
