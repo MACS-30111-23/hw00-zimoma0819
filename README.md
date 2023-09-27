@@ -17,10 +17,12 @@ Edit this README file to include a brief biography of yourself. Your README shou
 Zina is a first year graduate student in MACSS in the University of Chicago. This year, she got her Bachelor Degree in DePauw University with double majors in Psychology and Mathematics. She had two research experience in _social psychology_ and _human rights_, respectively, using R, SPSS, and GIS. This is her on her Commencement: 
 ![Alt text](Commencement_PIC.jpg)
 
+
+
 The courses that she is taking in the first quater of MACSS program can be found below:
 - MACS 30111 _Principles of Computing 1: Computational Thinking for Social Scientists_
-* MACS 30000 _Perspectives on Computational Analysis_
-+ LING 30401 _Psycholinguistics: Language Processing_
+- MACS 30000 _Perspectives on Computational Analysis_
+- LING 30401 _Psycholinguistics: Language Processing_
 
 ## Personal Information
 Zina loves dancing, playing video games, listening to the music, and learning languages in her free time. She used to be in a dance team called X-Cell for four years. She became the Vice President, Parliamentarian, and Choreographer of the X-Cell in her senior year at Depauw, and she cooperated with members in X-Cell and other dance teams on campus to offer two great showcases, including more than 20 choreographys, lightings, and arrangements.
